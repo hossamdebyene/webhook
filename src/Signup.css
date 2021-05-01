@@ -1,0 +1,36 @@
+.divi0{
+    background-image:url("124383.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60em;
+    text-align: center;
+    margin-top: 80px;
+}
+.Form1{
+    color: aliceblue;
+}
+.Form2{
+    margin-left: 600px;
+    text-align: left ;
+    margin-right: 600px;
+}
+.Form3{
+    margin-left: 600px;
+    text-align: left ;
+    margin-right: 600px;
+    width: 30 !important;
+    color: aliceblue;
+}
+.head0{
+    text-align: center;
+    color:aliceblue;
+}
+.butn0{
+    width: 20em;
+}
+.phoneNumber{
+    margin-left: 00px !important;
+    margin-right: 00px !important;
+    height: 30px !important;
+}

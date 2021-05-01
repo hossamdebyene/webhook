@@ -1,0 +1,24 @@
+borders{
+    border-right: 0ch solid#000;
+}
+.span{
+    margin-top: 0.5em;
+    color:darkgray;
+}
+div Navbar Form FormControl :focus{
+    width: 50%;
+}
+Navbar{
+    margin-bottom: 20px;
+}
+.space{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.follow{
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.title{
+    font-size: large;
+}

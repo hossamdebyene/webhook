@@ -1,0 +1,106 @@
+
+.division{
+    background-image: url("wp2036897.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 55em;
+    text-align: center;
+    margin-top: 80px;
+}
+.division2{
+    text-align: center;
+}
+.space{
+    color: white;
+    margin-bottom: 0%;
+}
+.spinner{
+    width: 150px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.text{
+    color: darkgrey;
+    margin-top: .25rem;
+    margin-right: 0;
+    text-align: center;
+    font-size: larger;
+    font-weight:bolder !important;
+}
+.in1{
+    height: 50px;
+    border-radius: 4px;
+    border-width: 0px;
+}
+.in2{
+    height: 50px;
+    border-radius: 4px;
+    border-width: 0px;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.btn{
+    height: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    display: inline-block;
+    border-bottom-left-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+
+}
+.icon{
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.font{
+    font-size:10em;
+    color:darkgray ;
+}
+.line{
+    color:darkgray ;
+    display: inline-block;
+}
+.lines{
+    float:left;
+    margin-top: 95px;
+    margin-right: 240px;
+    margin-left: 100px;
+    list-style: none;
+    font-size: large;
+}
+em{
+    font-weight: bold;
+}
+h3{
+    text-align: left;
+    color: darkgrey;
+    padding-top: 40px;
+    margin-left: 5em;
+    margin-right: 4em;
+}
+.font1{
+    font-size:8em;
+    color:darkgray ;
+}
+
+.btn2{
+    width: 500px;
+    height: 50px;
+    margin-right: 30px;
+    margin-top: 60px;
+    border-radius: 4px !important;
+}
+.btn1{
+    width: 600px !important ;
+    text-align: center;
+    padding-bottom: 10px;
+    height: 50px;
+    margin-bottom: 20px;
+    border-radius: 4px !important;
+}
+.texting{
+    margin-top: 30px;
+}
